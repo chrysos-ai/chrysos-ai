@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrysos-ai or Gold
-- 👀 I’m interested in Software Engineering (Backend)
+- 👀 I’m interested in Software Engineering (Full-Stack)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: @golddimanche@yahoo.com
